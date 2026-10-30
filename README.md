@@ -2,10 +2,6 @@
 
 Full-stack engineer with 7 years of experience building web applications and APIs in **Python** and **JavaScript/TypeScript**. Lately I've been focused on **AI-backed systems**: RAG pipelines, LLM-assisted data processing and voice interfaces, built on solid backend foundations.
 
-<!-- Add your links here, e.g.:
-[LinkedIn](https://www.linkedin.com/in/your-handle) · [Email](mailto:you@example.com) · [CV](https://link-to-cv)
--->
-
 ## What I work with
 
 **Backend:** Python (FastAPI, Django, Celery) · Ruby on Rails · Node.js (Express)
